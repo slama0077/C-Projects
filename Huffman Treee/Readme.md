@@ -2,5 +2,6 @@ This program accepts 3 text files as command line parameters that contains in-or
 
 It buids the hoffman code tree from two tree traversals and decodes the encoded text. Hoffman code tree  is helpful in both memory and runtime efficiency. Plus, it can also be stretched to make a secured way tp communicate. This project uses the idea of recursion and linked list to complete the tasks. 
 
-Two test vector files are also added to this folder. 
+Two test vector files are also added to this folder. More explanation about code can be found in the coding file itself. 
+
 
